@@ -1,0 +1,53 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/font/Colombo Sans Font.otf",
+      "sha1": "ead741c92714cd721950c4216842a02c676ee244"
+    },
+    {
+      "path": "src/assets/font/Neue Regrade Bold.otf",
+      "sha1": "678167c97d7765c7f4b057e64c4ad5e1ba70796c"
+    },
+    {
+      "path": "src/assets/font/Neue Regrade ExtraBold Italic.otf",
+      "sha1": "9a8a9ea92aa5bdcc016a8ee09613ebe5c7c83d67"
+    },
+    {
+      "path": "src/assets/font/Neue Regrade Extrabold.otf",
+      "sha1": "7ac2dd936e05bb237982df5e03246fb3d983b31d"
+    },
+    {
+      "path": "src/assets/font/Neue Regrade Medium Italic.otf",
+      "sha1": "105b82b063da3f310d804db649f8399459f68492"
+    },
+    {
+      "path": "src/assets/font/Neue Regrade Medium.otf",
+      "sha1": "0d1bae29daf4138116cee1315a3d14d07f78e267"
+    },
+    {
+      "path": "src/assets/font/Neue Regrade Regular Italic.otf",
+      "sha1": "d22b8d3cd3a20a3387d47b1be200e1c95871e246"
+    },
+    {
+      "path": "src/assets/font/Neue Regrade Regular.otf",
+      "sha1": "ddba10cdac28bd310222c7ce91f4e2d0caddbe3a"
+    },
+    {
+      "path": "src/assets/font/Neue Regrade SemiBold Italic.otf",
+      "sha1": "afcc768a1771ecc2d26afb8d0d9cc6bd8f78af47"
+    },
+    {
+      "path": "src/assets/font/Neue Regrade Semibold.otf",
+      "sha1": "f9825031c576eb723f5d8d1297cf96f6c6b81af1"
+    },
+    {
+      "path": "src/assets/font/Neue Regrade Variable.ttf",
+      "sha1": "b64a59c2b9215e4eba88de3909d41971387d2696"
+    },
+    {
+      "path": "src/assets/font/Neue-Regrade-Bold-Italic.otf",
+      "sha1": "e2daecb9a74864442ecb1f279ad0d13767fa42b3"
+    }
+  ]
+}
